@@ -1,0 +1,1 @@
+Then she added the name of the file, its content, and a meaningful commit message. After clicking on the Commit new file button, the file was created on the repository.
